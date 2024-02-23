@@ -2,13 +2,13 @@
 
 - Literally All TikTok APIs With All Algorithms Updated
 
-- Available APIs :
-- Follow
-- Unfollow
-- Like
-- Unlike
-- Comment
-- Upload
+* ✅ Available APIs :
+* ✅ Follow
+* ✅ Unfollow
+* ✅ Like
+* ✅ Unlike
+* ✅ Comment
+* ✅ Upload
 - Message
 - Search
 - Video Aweme
