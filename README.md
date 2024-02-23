@@ -9,8 +9,8 @@
 * ✅ Unlike
 * ✅ Comment
 * ✅ Upload
-- ×Message
-- puload
+* ✅Message
+* ✅puload
 * ✅ Search
 * ✅ Video Aweme
 * ✅ User Info
