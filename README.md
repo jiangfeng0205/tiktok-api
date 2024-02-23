@@ -2,7 +2,7 @@
 
 - Literally All TikTok APIs With All Algorithms Updated
 
-- Available APIs :
+-- Available APIs :
 - Follow
 - Unfollow
 - Like
