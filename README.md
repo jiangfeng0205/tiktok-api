@@ -1,13 +1,14 @@
 # tiktok-api
-Literally All TikTok APIs With All Algorithms Updated
 
-Available APIs :
-Follow
-Unfollow
-Like
-Unlike
-Comment
-Upload
+- Literally All TikTok APIs With All Algorithms Updated
+
+- Available APIs :
+- Follow
+- Unfollow
+- Like
+- Unlike
+- Comment
+- Upload
 Message
 Search
 Video Aweme
@@ -16,4 +17,4 @@ Edit
 Login
 SignUP
 Reset
-All Algorithms Updated (12-02-2024)
+All Algorithms Updated (24-02-2024)
