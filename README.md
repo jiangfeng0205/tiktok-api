@@ -9,12 +9,12 @@
 - Unlike
 - Comment
 - Upload
-Message
-Search
-Video Aweme
-User Info
-Edit
-Login
-SignUP
-Reset
-All Algorithms Updated (24-02-2024)
+- Message
+- Search
+- Video Aweme
+- User Info
+- Edit
+- Login
+- SignUP
+- Reset
+- All Algorithms Updated (24-02-2024)
